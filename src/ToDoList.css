@@ -29,11 +29,6 @@ h2 {
   color: white;
 }
 
-.TitleCont {
-  text-align: left;
-  display: flex;
-}
-
 .ListCont > li:nth-last-of-type(1) {
   border: none;
 }

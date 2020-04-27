@@ -21,3 +21,8 @@
 .DateText {
   font-size: 8px;
 }
+
+.TitleCont {
+  text-align: left;
+  display: flex;
+}
